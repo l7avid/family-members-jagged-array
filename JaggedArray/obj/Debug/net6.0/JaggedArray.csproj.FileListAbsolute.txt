@@ -1,0 +1,15 @@
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\14 - JaggedArray\JaggedArray\JaggedArray\bin\Debug\net6.0\JaggedArray.exe
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\14 - JaggedArray\JaggedArray\JaggedArray\bin\Debug\net6.0\JaggedArray.deps.json
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\14 - JaggedArray\JaggedArray\JaggedArray\bin\Debug\net6.0\JaggedArray.runtimeconfig.json
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\14 - JaggedArray\JaggedArray\JaggedArray\bin\Debug\net6.0\JaggedArray.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\14 - JaggedArray\JaggedArray\JaggedArray\bin\Debug\net6.0\JaggedArray.pdb
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\14 - JaggedArray\JaggedArray\JaggedArray\obj\Debug\net6.0\JaggedArray.csproj.AssemblyReference.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\14 - JaggedArray\JaggedArray\JaggedArray\obj\Debug\net6.0\JaggedArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\14 - JaggedArray\JaggedArray\JaggedArray\obj\Debug\net6.0\JaggedArray.AssemblyInfoInputs.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\14 - JaggedArray\JaggedArray\JaggedArray\obj\Debug\net6.0\JaggedArray.AssemblyInfo.cs
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\14 - JaggedArray\JaggedArray\JaggedArray\obj\Debug\net6.0\JaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\14 - JaggedArray\JaggedArray\JaggedArray\obj\Debug\net6.0\JaggedArray.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\14 - JaggedArray\JaggedArray\JaggedArray\obj\Debug\net6.0\refint\JaggedArray.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\14 - JaggedArray\JaggedArray\JaggedArray\obj\Debug\net6.0\JaggedArray.pdb
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\14 - JaggedArray\JaggedArray\JaggedArray\obj\Debug\net6.0\JaggedArray.genruntimeconfig.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\14 - JaggedArray\JaggedArray\JaggedArray\obj\Debug\net6.0\ref\JaggedArray.dll
